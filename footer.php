@@ -10,5 +10,6 @@
        </div>
        <div>
            <p>DEVELOPER</p>
+           <p>Developed by student in Faculty Engineering at RUPP.</p>
        </div>
    </div>
